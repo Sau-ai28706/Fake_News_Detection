@@ -15,15 +15,12 @@ api_key = os.getenv("GEMINI_API_KEY")
 
 if api_key:
     genai.configure(api_key=api_key)
-    gemini_model = genai.GenerativeModel("gemini-1.5-flash")
+    gemini_model = genai.GenerativeModel("gemini-3.5-flash")
 else:
     gemini_model = None
 
 news_input = st.text_area("News Article:")
 
-# --------------------------
-# Prediction
-# --------------------------
 if st.button("Check News"):
 
     if news_input.strip():
