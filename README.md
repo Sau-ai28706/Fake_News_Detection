@@ -86,10 +86,12 @@ https://github.com/Sau-ai28706/Fake_News_Detection
 
 ## References
 
-* Streamlit Documentation
-* Scikit-Learn Documentation
-* Google Gemini API Documentation
-* Python Documentation
+https://docs.streamlit.io/
+https://scikit-learn.org/stable/
+https://ai.google.dev/gemini-api/docs
+https://docs.python.org/3/
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 
 ---
 
