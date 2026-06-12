@@ -8,6 +8,17 @@ The application uses a trained Machine Learning model for classification and Goo
 
 ---
 
+## Dataset
+
+This project was trained using a publicly available Fake and Real News Dataset from Kaggle.
+
+Dataset Source:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+The dataset contains labeled news articles categorized as Fake and Real, which were used for training and evaluating the machine learning model.
+
+---
+
 ## Features
 
 * Fake News Detection using Machine Learning
